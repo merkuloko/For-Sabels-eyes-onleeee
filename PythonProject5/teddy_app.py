@@ -30,7 +30,7 @@ template = """
         <!-- Teddy Bear -->
         <div class="teddy-container">
             <!-- Updated image path -->
-            <img src="/teddy.png" alt="Survey Banner" style="max-width: 70%; height: auto; margin-bottom: 20px;" />
+            <img src="/Teddy.png" alt="Survey Banner" style="max-width: 70%; height: auto; margin-bottom: 20px;" />
 
             <!-- Floating hearts around teddy -->
             <div class="hearts-around-teddy" id="heartsAroundTeddy">
