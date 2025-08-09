@@ -240,7 +240,7 @@ template = """
     <div class="popup-container" id="popupContainer">
         <!-- Teddy Bear -->
         <div class="teddy-container">
-            <image src="{{ url_for('static', filename='teddy.png') }}" alt="Survey Banner" style="max-width: 70%; height: auto; margin-bottom: 20px;" />
+            <image src="teddy.png" alt="Survey Banner" style="max-width: 70%; height: auto; margin-bottom: 20px;" />
 
             <!-- Floating hearts around teddy -->
             <div class="hearts-around-teddy" id="heartsAroundTeddy">
